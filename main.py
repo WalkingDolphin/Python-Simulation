@@ -15,7 +15,7 @@ def calc(current, speed):
     
 print("Ben and Toby's simulation")
 print("                                                               ")
-print("Mosquitos are spread deadly diseases that kill hundreds of thousands of people each year.")
+print("Mosquitos are spreading deadly diseases that kill hundreds of thousands of people each year.")
 print("                                                               ")
 print("Climate change provides better living conditions for mosquitos letting them thrive and kill more of our kind.")
 print("                                                               ")
